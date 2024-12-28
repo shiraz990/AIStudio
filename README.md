@@ -56,5 +56,7 @@ A seamless project-planning experience.
 Actionable recommendations for diverse roles in the software lifecycle.
 
 What’s next? I’m planning to:
+
 🔄 Expand this framework for cross-platform use.
+
 📂 Share a polished version of the source code on GitHub.
