@@ -1,7 +1,5 @@
 # AIStudio
 
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e50214173218977.648c4882a75d6.gif
-
 Finally took the leap and built something I’ve been envisioning for a while—and the results are game-changing! 🚀
 
 Introducing my AI-powered digital agency app that operates with strategic precision and unmatched innovation. 🤖✨
