@@ -1,4 +1,5 @@
 # AIStudio
+![OpenAi](https://github.com/user-attachments/assets/4545ea36-5100-4059-9cc7-6cbbc91ee473)
 
 Finally took the leap and built something I’ve been envisioning for a while—and the results are game-changing! 🚀
 
