@@ -13,13 +13,20 @@ https://github.com/user-attachments/assets/ccd5a55e-63a8-432e-b5f9-64708497388b
 
 
 Roles in Action:
+
 💡 Project Director AI: Analyzes feasibility, sets strategies, and suggests refinements for optimal project outcomes.
+
 🔧 Technical Architect AI: Crafts a scalable architecture tailored to project specifics.
+
 📋 Product Manager AI: Defines clear scopes, timelines, and risk mitigation strategies.
+
 👩‍💻 Developer AI: Focuses on practical implementation details and debugging.
+
 🎯 Client Success AI: Tracks project delivery and ensures client satisfaction by refining strategies based on feedback.
 
+
 Key Features:
+
 ✅ Dynamic Form Validation: Captures essential project details (like budget, timeline, and priority) and ensures a seamless experience.
 
 ✅ Personalized Analysis: Provides tailored recommendations for CEOs, CTOs, PMs, Developers, and Clients based on project data.
