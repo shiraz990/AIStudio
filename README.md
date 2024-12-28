@@ -8,6 +8,10 @@ Here’s how it works:
 
 🌀 Framework: Agency-Swarm-Inspired AI Workflow 👥 Powered by multiple AI agents that collaborate and strategize in real time.
 
+
+https://github.com/user-attachments/assets/ccd5a55e-63a8-432e-b5f9-64708497388b
+
+
 Roles in Action:
 💡 Project Director AI: Analyzes feasibility, sets strategies, and suggests refinements for optimal project outcomes.
 🔧 Technical Architect AI: Crafts a scalable architecture tailored to project specifics.
